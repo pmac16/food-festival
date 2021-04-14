@@ -21,6 +21,7 @@
   "homepage": "https://github.com/pmac16/food-festival#readme",
   "devDependencies": {
     "webpack": "^5.32.0",
+    "webpack-bundle-analyzer": "^4.4.1",
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
